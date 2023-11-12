@@ -1,3 +1,5 @@
+// script file
+
 let label = document.querySelectorAll("label").forEach((label) => {
   label.innerHTML = label.innerText
     .split("")
